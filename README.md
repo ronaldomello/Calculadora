@@ -3,3 +3,6 @@
 uma simples calculadora para compreender operadores.
 
 #Calculadora teste
+
+#criando
+  
