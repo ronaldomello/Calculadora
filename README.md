@@ -27,4 +27,6 @@ print(numero1 * numero2)
 #Divisão
 print('{} / {} = '.format(numero1, numero2))
 print(numero1 / numero2)
+
+print("Fim!")
   
