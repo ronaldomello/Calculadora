@@ -12,19 +12,19 @@ uma simples calculadora para compreender operadores.
 numero1 = int(input('Digite o primeiro numero: '))
 numero2 = int(input('Digite o segundo numero: '))
 
-# Soma
+#Soma
 print('{} + {} = '.format(numero1, numero2))
 print(numero1 + numero2)
 
-# Subtração
+#Subtração
 print('{} - {} = '.format(numero1, numero2))
 print(numero1 - numero2)
 
-# Multiplicação
+#Multiplicação
 print('{} * {} = '.format(numero1, numero2))
 print(numero1 * numero2)
 
-# Divisão
+#Divisão
 print('{} / {} = '.format(numero1, numero2))
 print(numero1 / numero2)
   
