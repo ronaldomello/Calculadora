@@ -6,6 +6,8 @@ uma simples calculadora para compreender operadores.
 
 #criando calculadora
 
+# Teste com soma , subtração, multiplicação e divisão.
+
 
 # Criando calculadora em Python
 
